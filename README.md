@@ -21,7 +21,7 @@ Open index.html in Your Browser:
 
 Open index.html directly in your browser by dragging and dropping it, or using your preferred method.
 
-# Usage
+# Usage                                                        
 ## Creating a Workout Plan:
 Click on the "Create Workout" button.
 Enter your workout details (exercise routines, sets, reps, etc.).
