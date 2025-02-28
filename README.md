@@ -9,7 +9,7 @@ Progress Tracking: Monitor your fitness progress and track your workout history 
 Share Your Achievements: Share your workout achievements and progress with friends and fitness enthusiasts.
 Getting Started
 To get started with Muscle Mingle, follow these steps:
-
+                                                                                  
 1. Clone the Repository:
 
 git clone https://github.com/Akshatbhardwaj15/muscle_mingle.git
